@@ -6,7 +6,7 @@
 ![alt text](HNG11-task-three.png "Title")
 
 ### OpenAPI specification
-Click [here to access the openapi specification document](https://app.swaggerhub.com/apis/AbdulbakiSuraj/hng11-task-three/1.0.0)
+Click [here to access the openapi specification document](https://app.swaggerhub.com/apis-docs/AbdulbakiSuraj/hng11-task-three/1.0.0)
 
 
 ## Project Setup
