@@ -7,7 +7,6 @@
 
 ### OpenAPI specification
 Click [here to access the openapi specification document](https://app.swaggerhub.com/apis/AbdulbakiSuraj/hng11-task-three/1.0.0)
-View the openapi specification on [swagger here](swagger)
 
 
 ## Project Setup
